@@ -2,6 +2,12 @@
 
 FYP 2019/20 Patient Healthcare Mobile App
 
+Source Code written in Dart, uses Google Flutter & Google Firebase, found in lib folder.
+
+Other source codes include pubspec.yaml (found in main folder), build.gradle of both Project level (found in android folder), & Application level (found in android/app folder) & lastly google-services.json (found in android/app folder).
+
+Apk file (app.apk) is found in build\app\outputs\apk .
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
